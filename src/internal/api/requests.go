@@ -5,7 +5,7 @@ import (
 	"errors"
 	"io"
 	"net/http"
-	"pockedex/src/internal/cache"
+	"github.com/JuanJDlp/pockedex/src/internal/cache"
 )
 
 const baseUrl = "https://pokeapi.co/api/v2"

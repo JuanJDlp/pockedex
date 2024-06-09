@@ -3,7 +3,7 @@ package main
 import (
 	"errors"
 	"fmt"
-	"pockedex/src/internal/api"
+	"github.com/JuanJDlp/pockedex/src/internal/api"
 )
 
 func explore(args ...string) error {

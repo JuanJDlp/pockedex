@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"pockedex/src/internal/api"
+	"github.com/JuanJDlp/pockedex/src/internal/api"
 )
 
 func mapb(args ...string) error {

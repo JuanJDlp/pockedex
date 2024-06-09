@@ -2,7 +2,7 @@ package main
 
 import (
 	"os"
-	"pockedex/src/internal/api"
+	"github.com/JuanJDlp/pockedex/src/internal/api"
 )
 
 type command struct {

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"math/rand"
-	"pockedex/src/internal/api"
+	"github.com/JuanJDlp/pockedex/src/internal/api"
 )
 
 
